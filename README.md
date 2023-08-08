@@ -1,5 +1,5 @@
 # startup-of-the-year
-My first front-end(html and css only) project
+A fun little front-end(html and css only) project
 
 # Tools used:
 html | bootstrap | css | mailchimp
