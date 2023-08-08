@@ -2,6 +2,4 @@
 My first front-end(html and css only) project
 
 # Tools used:
-html
-css
-mailchimp
+html | css | mailchimp
